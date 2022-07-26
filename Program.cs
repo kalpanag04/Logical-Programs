@@ -34,29 +34,29 @@ namespace LogicalPrograms
                         fibonacciSeries.Fibonacciseries(10);
                         break;
 
-                   /* case 2:
+                    case 2:
                         //perfect number (6, 28, 496, 8128 )
                         PerfectNumber perfect = new PerfectNumber();
                         perfect.CheckPerfectNumber(8128);
                         break;
 
-                    case 3:
-                        //prime number (2,3,5,7,11... )
-                        PrimeNumber prime = new PrimeNumber();
-                        prime.CheckPrime(23);
-                        break;
+                    /* case 3:
+                         //prime number (2,3,5,7,11... )
+                         PrimeNumber prime = new PrimeNumber();
+                         prime.CheckPrime(23);
+                         break;
 
-                    case 4:
-                        ////Reverse a number
-                        ReverseNumebr reverse = new ReverseNumebr();
-                        reverse.DoReverse(123);
-                        break;
+                     case 4:
+                         ////Reverse a number
+                         ReverseNumebr reverse = new ReverseNumebr();
+                         reverse.DoReverse(123);
+                         break;
 
-                    case 5:
-                        //Stopwatch
-                        StopWatch watch = new StopWatch();
-                        watch.StimulateStopWatch();
-                        break; */
+                     case 5:
+                         //Stopwatch
+                         StopWatch watch = new StopWatch();
+                         watch.StimulateStopWatch();
+                         break; */
 
                     case 6:
                         Console.WriteLine("Exit");
