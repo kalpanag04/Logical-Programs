@@ -10,11 +10,6 @@ namespace LogicalPrograms
 
             while (true)
             {
-                Console.WriteLine("Press 1. for Fibonacci Series.");
-                Console.WriteLine("Press 2. for Perfect number.");
-                Console.WriteLine("Press 3. for Prime number.");
-                Console.WriteLine("Press 4. for Reverse number.");
-                Console.WriteLine("Press 5. to Stimulate Stop watch.");
                 Console.WriteLine("|--------------------------------------------------|");
                 Console.WriteLine("| Press 1. for Fibonacci Series.                   |");
                 Console.WriteLine("| Press 2. for Perfect Number.                     |");
@@ -52,11 +47,11 @@ namespace LogicalPrograms
                          reverse.DoReverse(456);
                          break;
 
-                    /* case 5:
+                     case 5:
                          //Stopwatch
                          StopWatch watch = new StopWatch();
                          watch.StimulateStopWatch();
-                         break; */
+                         break; 
 
                     case 6:
                         Console.WriteLine("Exit");
