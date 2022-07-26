@@ -31,7 +31,7 @@ namespace LogicalPrograms
                     case 1:
                         //Fibonacci Series
                         FibonacciSeries fibonacciSeries = new FibonacciSeries();
-                        fibonacciSeries.Fibonacciseries(10);
+                        fibonacciSeries.Fibonacciseries(15);
                         break;
 
                     case 2:
@@ -40,13 +40,13 @@ namespace LogicalPrograms
                         perfect.CheckPerfectNumber(8128);
                         break;
 
-                    /* case 3:
+                    case 3:
                          //prime number (2,3,5,7,11... )
                          PrimeNumber prime = new PrimeNumber();
-                         prime.CheckPrime(23);
+                         prime.CheckPrime(79);
                          break;
 
-                     case 4:
+                    /* case 4:
                          ////Reverse a number
                          ReverseNumebr reverse = new ReverseNumebr();
                          reverse.DoReverse(123);
