@@ -46,13 +46,13 @@ namespace LogicalPrograms
                          prime.CheckPrime(79);
                          break;
 
-                    /* case 4:
+                     case 4:
                          ////Reverse a number
-                         ReverseNumebr reverse = new ReverseNumebr();
-                         reverse.DoReverse(123);
+                         ReverseNumber reverse = new ReverseNumber();
+                         reverse.DoReverse(456);
                          break;
 
-                     case 5:
+                    /* case 5:
                          //Stopwatch
                          StopWatch watch = new StopWatch();
                          watch.StimulateStopWatch();
